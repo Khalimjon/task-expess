@@ -1,0 +1,7 @@
+{
+  "name": "my app",
+  "mailServer": {
+    "host": "dev-mail.server"
+  }
+}
+
